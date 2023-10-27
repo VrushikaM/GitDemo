@@ -7,3 +7,5 @@
 *.sqlite
 *.wsuo
 *.json
+/.vs/slnx.sqlite
+*.sqlite-journal
